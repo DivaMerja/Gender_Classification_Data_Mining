@@ -31,7 +31,7 @@ Columns:
 
 ## How to Run  
 1. Clone the repository:  
-   git clone https://github.com/your-username/weight-height-gender-classification.git  
+   git clone https://github.com/DivaMerja/Gender_Classification_Data_Mining.git  
    cd weight-height-gender-classification  
 
 2. Install dependencies (listed in requirements.txt):  
